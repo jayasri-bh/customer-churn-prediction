@@ -1,0 +1,106 @@
+================================================================================
+CUSTOMER CHURN ANALYSIS REPORT
+================================================================================
+Generated: 2026-08-26 16:34:25
+
+
+================================================================================
+1. EXECUTIVE SUMMARY
+================================================================================
+Total Customers:        7,043
+Churned Customers:      1,869
+Retained Customers:     5,174
+Churn Rate:             26.54%
+Retention Rate:         73.46%
+
+
+================================================================================
+2. FINANCIAL METRICS
+================================================================================
+Average Monthly Charges:     $64.76
+Total Annual Charges:        $22,944,644.00
+Monthly Revenue (Churned):   $139,130.85
+Monthly Revenue (Retained):  $316,985.75
+
+
+================================================================================
+3. CUSTOMER DEMOGRAPHICS
+================================================================================
+
+Gender Distribution:
+  1: 3,555 (50.5%)
+  0: 3,488 (49.5%)
+
+Senior Citizen Status:
+  0: 5,901 (83.8%)
+  1: 1,142 (16.2%)
+
+Family Status:
+  Partner - 0: 3,641 (51.7%)
+  Partner - 1: 3,402 (48.3%)
+  Dependents - 0: 5,416 (76.9%)
+  Dependents - 1: 1,627 (23.1%)
+
+
+================================================================================
+4. TENURE ANALYSIS
+================================================================================
+Average Tenure: 32.4 months
+
+Churn Rate by Tenure:
+  0-6 months: 53.3% (784/1470)
+  6-12 months: 35.9% (253/705)
+  12-24 months: 28.7% (294/1024)
+  24+ months: 14.0% (538/3833)
+
+
+================================================================================
+5. SERVICE ANALYSIS
+================================================================================
+
+Internet Service Type:
+  0: 0.0% churn rate (0/2421)
+  1: 0.0% churn rate (0/3096)
+  2: 0.0% churn rate (0/1526)
+
+Contract Type:
+  0: 0.0% churn rate (0/3875)
+  2: 0.0% churn rate (0/1695)
+  1: 0.0% churn rate (0/1473)
+
+
+================================================================================
+6. TOP CHURN REASONS
+================================================================================
+
+Top 10 Reasons for Churn:
+  1. 1: 192 (10.3%)
+  2. 4: 189 (10.1%)
+  3. 5: 162 (8.7%)
+  4. 7: 154 (8.2%)
+  5. 3: 140 (7.5%)
+  6. 0: 135 (7.2%)
+  7. 2: 130 (7.0%)
+  8. 14: 103 (5.5%)
+  9. 18: 102 (5.5%)
+  10. 17: 98 (5.2%)
+
+
+================================================================================
+7. KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+✓ KEY FINDINGS:
+  • Churned customers pay $74.44/month (vs $61.27 for retained)
+    → Consider pricing review for high-value customers
+
+✓ RECOMMENDATIONS:
+  1. Implement targeted retention programs for month-to-month customers
+  2. Improve Fiber optic service quality and customer support
+  3. Create early engagement programs for new customers (first 6 months)
+  4. Review pricing strategy to reduce cost-driven churn
+  5. Address top churn reasons with specific action plans
+
+================================================================================
+END OF REPORT
+================================================================================
